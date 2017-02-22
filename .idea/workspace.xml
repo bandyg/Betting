@@ -1,9 +1,224 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b849d5d4-f17b-46fd-af94-41fc3dbf74a2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="b849d5d4-f17b-46fd-af94-41fc3dbf74a2" name="Default" comment="BettingFE project started.">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/ajax-loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/action-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/action-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/alert-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/alert-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/arrow-d-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/arrow-d-l-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/arrow-d-l-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/arrow-d-r-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/arrow-d-r-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/arrow-d-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/arrow-l-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/arrow-l-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/arrow-r-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/arrow-r-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/arrow-u-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/arrow-u-l-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/arrow-u-l-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/arrow-u-r-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/arrow-u-r-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/arrow-u-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/audio-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/audio-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/back-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/back-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/bars-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/bars-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/bullets-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/bullets-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/calendar-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/calendar-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/camera-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/camera-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/carat-d-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/carat-d-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/carat-l-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/carat-l-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/carat-r-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/carat-r-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/carat-u-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/carat-u-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/check-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/check-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/clock-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/clock-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/cloud-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/cloud-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/comment-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/comment-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/delete-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/delete-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/edit-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/edit-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/eye-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/eye-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/forbidden-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/forbidden-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/forward-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/forward-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/gear-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/gear-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/grid-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/grid-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/heart-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/heart-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/home-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/home-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/info-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/info-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/location-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/location-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/lock-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/lock-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/mail-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/mail-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/minus-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/minus-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/navigation-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/navigation-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/phone-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/phone-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/plus-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/plus-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/power-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/power-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/recycle-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/recycle-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/refresh-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/refresh-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/search-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/search-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/shop-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/shop-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/star-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/star-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/tag-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/tag-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/user-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/user-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/video-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-png/video-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vagrant.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/jquery.mobile-1.4.5.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/action-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/action-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/alert-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/alert-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/arrow-d-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/arrow-d-l-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/arrow-d-l-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/arrow-d-r-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/arrow-d-r-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/arrow-d-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/arrow-l-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/arrow-l-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/arrow-r-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/arrow-r-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/arrow-u-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/arrow-u-l-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/arrow-u-l-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/arrow-u-r-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/arrow-u-r-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/arrow-u-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/audio-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/audio-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/back-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/back-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/bars-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/bars-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/bullets-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/bullets-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/calendar-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/calendar-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/camera-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/camera-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/carat-d-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/carat-d-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/carat-l-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/carat-l-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/carat-r-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/carat-r-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/carat-u-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/carat-u-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/check-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/check-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/clock-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/clock-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/cloud-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/cloud-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/comment-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/comment-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/delete-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/delete-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/edit-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/edit-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/eye-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/eye-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/forbidden-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/forbidden-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/forward-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/forward-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/gear-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/gear-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/grid-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/grid-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/heart-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/heart-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/home-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/home-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/info-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/info-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/location-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/location-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/lock-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/lock-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/mail-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/mail-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/minus-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/minus-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/navigation-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/navigation-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/phone-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/phone-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/plus-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/plus-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/power-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/power-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/recycle-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/recycle-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/refresh-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/refresh-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/search-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/search-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/shop-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/shop-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/star-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/star-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/tag-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/tag-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/user-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/user-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/video-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/images/icons-svg/video-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/jquery.mobile-1.4.5.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/tsconfig.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/css/index.css" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/index.html" afterPath="$PROJECT_DIR$/platforms/android/assets/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/js/index.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/platforms.json" afterPath="$PROJECT_DIR$/platforms/platforms.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/index.css" afterPath="$PROJECT_DIR$/www/css/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/index.js" afterPath="$PROJECT_DIR$/www/js/index.js" />
     </list>
     <ignored path="BettingFE.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,31 +240,100 @@
     <favorites_list name="BettingFE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="config.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config.xml">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="120">
+              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tsconfig.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/tsconfig.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/www/index.html">
+      <file leaf-file-name="config.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+            <state relative-caret-position="157">
+              <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/js/jquery.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="9368" column="73" selection-start-line="9368" selection-start-column="73" selection-end-line="9368" selection-end-column="73" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index0.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/index0.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="tsconfig.json" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/www/js/jquery.mobile-1.4.5.min.js" />
+        <option value="$PROJECT_DIR$/www/css/jquery.mobile-1.4.5.min.css" />
+        <option value="$USER_HOME$/Downloads/jquery.mobile-1.4.5 copy/demos/navigation/index.html" />
+        <option value="$USER_HOME$/Downloads/jquery.mobile-1.4.5 copy/demos/navbar/index.html" />
+        <option value="$PROJECT_DIR$/www/css/index.css" />
+        <option value="$PROJECT_DIR$/www/index0.html" />
+        <option value="$PROJECT_DIR$/www/index.html" />
+        <option value="$PROJECT_DIR$/config.xml" />
+        <option value="$PROJECT_DIR$/www/js/index.js" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -58,10 +342,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="320" />
-    <option name="y" value="60" />
-    <option name="width" value="1280" />
-    <option name="height" value="773" />
+    <option name="y" value="23" />
+    <option name="width" value="1600" />
+    <option name="height" value="873" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -88,7 +371,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -121,22 +404,164 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BettingFE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BettingFE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="javascript.nodejs.core.library.configured.version" value="6.9.4" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jqmobile" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/www/css" />
+      <recent name="$PROJECT_DIR$/www/js" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PhoneGap/Cordova.release">
+    <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="FirefoxRemoteDebugType" factoryName="Firefox Remote">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhoneGap" factoryName="PhoneGap/Cordova" editBeforeRun="true">
+      <option name="myExecutable" value="/usr/local/bin/cordova" />
+      <option name="myWorkDir" value="$PROJECT_DIR$" />
+      <option name="myCommand" value="emulate" />
+      <option name="myPassParent" value="true" />
+      <option name="myPlatform" value="android" />
+      <option name="myExtraArgs" value="" />
+      <option name="hasTarget" value="true" />
+      <option name="target" value="Nexus_S_API_22" />
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="Betting" type="PhoneGap" factoryName="PhoneGap/Cordova" editBeforeRun="true">
+      <option name="myExecutable" value="/usr/local/bin/cordova" />
+      <option name="myWorkDir" value="$PROJECT_DIR$" />
+      <option name="myCommand" value="emulate" />
+      <option name="myPassParent" value="true" />
+      <option name="myPlatform" value="android" />
+      <option name="myExtraArgs" value="" />
+      <option name="hasTarget" value="true" />
+      <option name="target" value="Nexus_S_API_22" />
+      <method />
+    </configuration>
+    <configuration default="false" name="release" type="PhoneGap" factoryName="PhoneGap/Cordova" editBeforeRun="true">
+      <option name="myExecutable" value="/usr/local/bin/cordova" />
+      <option name="myWorkDir" value="$PROJECT_DIR$" />
+      <option name="myCommand" value="emulate" />
+      <option name="myPassParent" value="true" />
+      <option name="myPlatform" value="android" />
+      <option name="myExtraArgs" value="" />
+      <option name="hasTarget" value="true" />
+      <option name="target" value="Nexus_S_API_22" />
+      <method>
+        <option name="ToolBeforeRunTask" enabled="true" actionId="Tool_External Tools_release" />
+        <option name="ToolBeforeRunTask" enabled="true" actionId="Tool_External Tools_sign" />
+      </method>
+    </configuration>
+    <configuration default="false" name="debug" type="PhoneGap" factoryName="PhoneGap/Cordova" editBeforeRun="true">
+      <option name="myExecutable" value="/usr/local/bin/cordova" />
+      <option name="myWorkDir" value="$PROJECT_DIR$" />
+      <option name="myCommand" value="emulate" />
+      <option name="myPassParent" value="true" />
+      <option name="myPlatform" value="browser" />
+      <option name="myExtraArgs" value="" />
+      <option name="hasTarget" value="true" />
+      <option name="target" value="" />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="PhoneGap/Cordova.Betting" />
+      <item index="1" class="java.lang.String" itemvalue="PhoneGap/Cordova.release" />
+      <item index="2" class="java.lang.String" itemvalue="PhoneGap/Cordova.debug" />
+    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -145,33 +570,43 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1487468489957</updated>
-      <workItem from="1487468493448" duration="40000" />
+      <workItem from="1487468493448" duration="2428000" />
+      <workItem from="1487472505154" duration="1107000" />
+      <workItem from="1487474152872" duration="5233000" />
+      <workItem from="1487501376834" duration="9521000" />
+      <workItem from="1487522776063" duration="1071000" />
+      <workItem from="1487625856217" duration="1994000" />
+      <workItem from="1487718354559" duration="2939000" />
+      <workItem from="1487794084210" duration="6171000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40000" />
+    <option name="totallyTimeSpent" value="30464000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="320" y="60" width="1280" height="773" extended-state="0" />
+    <frame x="0" y="23" width="1600" height="873" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2026599" sideWeight="0.4923664" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290653" sideWeight="0.4977834" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290653" sideWeight="0.5022166" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.4977834" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.72767574" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2026599" sideWeight="0.50763357" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39948782" sideWeight="0.49525017" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="CSS Styles" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.4977834" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -185,23 +620,274 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
+    <MESSAGE value="BettingFE project started." />
+    <option name="LAST_COMMIT_MESSAGE" value="BettingFE project started." />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="5" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config.xml">
+    <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="65" selection-start-line="45" selection-start-column="65" selection-end-line="45" selection-end-column="65" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/meta.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="110" column="16" selection-start-line="110" selection-start-column="16" selection-end-line="110" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/jquery.mobile-1.4.5.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/images/icons-png/eye-black.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/images/icons-png/eye-white.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/images/icons-png/tag-black.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/images/icons-png/tag-white.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/images/icons-png/back-black.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/images/icons-png/back-white.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/images/icons-png/bars-black.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/bandyg/projects/jqmobile/www/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="22" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/jquery.mobile-1.4.5.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/jquery.mobile-1.4.5/demos/_assets/css/jqm-demos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/bandyg/projects/jqmobile/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="41" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/images/icons-png/bars-white.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/images/icons-png/edit-white.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/images/icons-png/edit-black.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/jquery.mobile-1.4.5 copy/demos/navbar/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="77" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/jquery.mobile-1.4.5/demos/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="693" column="0" selection-start-line="693" selection-start-column="0" selection-end-line="693" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/jquery.mobile-1.4.5 copy/demos/navigation/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="56" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/img/mk6Tab.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/img/meTab.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index0.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="9368" column="73" selection-start-line="9368" selection-start-column="73" selection-end-line="9368" selection-end-column="73" />
           <folding />
         </state>
       </provider>
