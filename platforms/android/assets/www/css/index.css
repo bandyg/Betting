@@ -8,7 +8,6 @@ html, body {
     padding-top: 20px !important;
 }
 
-
 #preTwo, #preOne, #currentDraw {
     max-height: 7em;
     min-height: 5em;
@@ -31,9 +30,22 @@ html, body {
     flex-wrap: wrap;
 }
 
+#mk6Tab:after {
+    background: url("../img/mk6Tab.png") 50% 50% no-repeat;
+    background-size: 24px 22px;
+}
 
+#horseTab:after {
+    background: url("../img/horseTab.png") 50% 50% no-repeat;
+    background-size: 24px 16px;
+}
 
-#mk6Tab:after { background:url("../img/mk6Tab.png") 50% 50% no-repeat; background-size: 24px 22px;}
-#horseTab:after { background:url("../img/horseTab.png") 50% 50% no-repeat; background-size: 24px 16px;}
-#footballTab:after { background:url("../img/footballTab.png") 50% 50% no-repeat; background-size: 12px 26px;}
-#meTab:after { background:url("../img/meTab.png") 50% 50% no-repeat; background-size: 22px 27px;}
+#footballTab:after {
+    background: url("../img/footballTab.png") 50% 50% no-repeat;
+    background-size: 12px 26px;
+}
+
+#meTab:after {
+    background: url("../img/meTab.png") 50% 50% no-repeat;
+    background-size: 22px 27px;
+}

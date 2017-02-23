@@ -1,56 +1,97 @@
-    <!DOCTYPE html>
-    <html>
-        <head>
-            <meta name="viewport" content="width=device-width, initial-scale=1">
-            <link rel="stylesheet" type="text/css" href="css/index.css" />
-            <link href="css/jquery.mobile-1.4.5.min.css" rel="stylesheet" type="text/css"/>
-            <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
-            <script src="js/jquery.js"></script>
-            <script src="js/index.js"></script>
-            <script src="js/jquery.mobile-1.4.5.min.js"></script>
-            <title>BettingFE</title>
-        </head>
-        <body>
-            <div id="app">
+<!DOCTYPE html>
 
-                <section id="pageContent">
-                        <div id="preTwo" class="oneRow">
-                            <div class="drawNo">
-                                asdfasdf
-                            </div>
-                            <div class="sel">
-                                fdsasdfasdf
-                            </div>
-                        </div>
-                        <div id="preOne" class="oneRow">
-                            <div class="drawNo">
+<html lang="en">
 
-                            </div>
-                            <div class="sel">
+<head>
 
-                            </div>
-                        </div>
-                        <div id="currentDraw" class="oneRow">
-                            <div class="drawNo">
+    <meta charset="UTF-8">
 
-                            </div>
-                            <div class="sel">
+    <title>BettingFE</title>
 
-                            </div>
-                        </div>
-                    </section>
+    <link rel="stylesheet" type="text/css" href="css/index.css"/>
 
-                <div data-role="footer" data-position="fixed" data-theme="b" class="nav-glyphish-example" align="center">欢迎使用"神机妙算"
-                    <div data-role="navbar" class="nav-glyphish-example">
-                        <ul>
-                            <li><a href="#" data-icon="custom" class="ui-btn-active" id="mk6Tab">珠</a></li>
-                            <li><a href="#" data-icon="custom" id="horseTab">马</a></li>
-                            <li><a href="#" data-icon="custom" id="footballTab">波</a></li>
-                            <li><a href="#" data-icon="custom" id="meTab">我</a></li>
-                        </ul>
-                    </div>
-                </div>
+    <link href="css/jquery.mobile-1.4.5.min.css" rel="stylesheet" type="text/css"/>
 
-            </div>
-        </body>
-    </html>
+</head>
+
+<body>
+
+    <div data-role="header">
+        <h1>神机妙算</h1>
+        <a href="#" data-icon="gear" class="ui-btn-right">设置</a>
+    </div>
+
+    <div data-role="content">
+        <div id="pageMK6">
+            <ul data-role="listview" data-inset="true">
+                <li data-role="list-divider">2016-12-22</li>
+
+                <li>
+                <span>
+                    <h2>前二</h2>
+                    <p><strong>开奖结果：8， 28， 38， 41， 48， 特：10</strong></p>
+                    <p>鸡     马   猴</p>
+                    <p class="ui-li-aside"><strong>6:24</strong>PM</p>
+                </span>
+                </li>
+                <li>
+                <span>
+                <h2>前一</h2>
+                    <p><strong>开奖结果：12， 18， 22， 24， 28， 38， 特：4</strong></p>
+                    <p>羊     猪   龙</p>
+                    <p class="ui-li-aside"><strong>9:18</strong>AM</p>
+                </span>
+                </li>
+
+                <li data-role="list-divider">2017-01-03</li>
+
+                <li>
+                <span>
+                    <h2>今期</h2>
+                    <p><strong>开奖结果：3， 5， 6， 8， 22， 36， 特：11</strong></p>
+                    <p>龙    虎   蛇</p>
+                    <p class="ui-li-aside"><strong>4:48</strong>PM</p>
+                </span>
+                </li>
+
+                <li data-role="list-divider">2017-02-2</li>
+                <li>
+                <span>
+                    <h2>下期预测</h2>
+                    <p><strong>神机号：3， 5， 6， 8， 22， 36， 特：11</strong></p>
+                    <p>鼠    马   蛇</p>
+                    <p class="ui-li-aside"><strong>14:48</strong>PM</p>
+                </span>
+                </li>
+            </ul>
+        </div>
+
+        <div id="pageRacing">
+            <p>racing is under developing</p>
+        </div>
+
+        <div id="pageFootball">
+            <p>football is under developing</p>
+        </div>
+    </div>
+
+    <div data-role="footer" data-position="fixed" data-fullscreen="true">
+        <h1>WELCOME</h1>
+        <div data-role="navbar">
+            <ul>
+                <li><a href="#" page-name="#pageMK6" data-role="tab" data-icon="grid" class="ui-btn-active">珠</a></li>
+                <li><a href="#" page-name="#pageRacing" data-role="tab" data-icon="grid">马</a></li>
+                <li><a href="#" page-name="#pageFootball" data-role="tab" data-icon="grid">波</a></li>
+            </ul>
+        </div>
+    </div>
+
+<script src="js/jquery.js"></script>
+
+<script src="js/jquery.mobile-1.4.5.min.js"></script>
+
+<script src="js/index.js"></script>
+
+</body>
+
+</html>

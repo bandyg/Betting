@@ -16,7 +16,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-function () {
+(function () {
 
     var app = {
         // Application Constructor
@@ -54,20 +54,45 @@ function () {
     $("a[data-role=tab]").each(function () {
         var anchor = $(this);
         anchor.bind("click", function () {
-            $.mobile.changePage(anchor.attr("href"), {
-                transition: "none",
-                changeHash: false
-            });
+
+            showTheSelectedTabPage();
+
             return false;
         });
     });
 
-    $("div[data-role=page]").bind("pagebeforeshow", function (e, data) {
+    function hideAllPage() {
+        //to find all page ele
+        //var pageName = $(this).attr("page-name");
+        $("div[id^=page]").hide();
+    }
+
+    function findTheSelectedTabName() {
+        return $("a.ui-btn-active").attr("page-name");
+    }
+
+    function showThePage(pageName) {
+        $(pageName).show();
+    }
+
+    function showTheSelectedTabPage() {
+        //hide all page then show the click page
+        //hide all pages
+        hideAllPage();
+        //find the selected tab
+        var pageName = findTheSelectedTabName();
+        //show the page
+        showThePage(pageName);
+    }
+
+    showTheSelectedTabPage();
+
+    /*$("div[data-role=page]").bind("pagebeforeshow", function (e, data) {
         $.mobile.silentScroll(0);
         $.mobile.changePage.defaults.transition = 'slide';
         //var test = $(this).find("a[href=#"+this.id+"]");
         //test.html("check");
-    });
+     });*/
     //---------------UI part------------------//
 
     //---------------functionality------------------//
@@ -117,7 +142,6 @@ function () {
     });
     request.sendRequest("json");
     //---------------functionality------------------//
-}
-()
+})()
 
 
